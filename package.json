@@ -1,0 +1,16 @@
+{
+  "name": "hystock-eapp",
+  "version": "1.0.0",
+  "description": "myc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "myc",
+  "license": "ISC",
+  "dependencies": {
+    "@antv/f2": "^3.5.0-beta.1",
+    "@antv/my-f2": "^1.1.6",
+    "mini-antui": "^0.4.34"
+  }
+}

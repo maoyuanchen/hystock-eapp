@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "page/index/index",
+    "page/charts/charts"
+  ],
+  "window": {
+    "enableWK": "YES",
+    "enableDSL": true,
+    "defaultTitle": "鸿雁商家服务",
+    "backgroundColor": "#F5F5F9",
+    "pullRefresh": false,
+    "allowsBounceVertical": true
+  },
+  "tabBar": {
+    "textColor": "#404040",
+    "selectedColor": "#108ee9",
+    "backgroundColor": "#F5F5F9",
+    "items": [
+      {
+        "pagePath": "page/index/index",
+        "icon": "image/icon_statistics.png",
+        "activeIcon": "image/icon_statistics_hl.png",
+        "name": "经营统计"
+      },
+      {
+        "pagePath": "page/charts/charts",
+        "icon": "image/icon_certificate_fil.png",
+        "activeIcon": "image/icon_certificate_fil_hl.png",
+        "name": "排行榜"
+      }
+    ]
+  },
+  "debug": true
+}
